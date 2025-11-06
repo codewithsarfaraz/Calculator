@@ -1,5 +1,6 @@
  body {
      display: flex;
+     flex-direction: column;
      justify-content: center;
      align-items: center;
      height: 100vh;
@@ -64,4 +65,5 @@
      background: #016599;
      color: rgb(255, 255, 255);
      grid-column: span 1;
+
  }
