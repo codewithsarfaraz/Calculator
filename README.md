@@ -59,8 +59,8 @@ To test the Calculator Web App, follow these steps:
 
 📸 Screenshots
 ---------------
-[Image 1: Calculator Web App screenshot](https://via.placeholder.com/400x300)
-[Image 2: Calculator Web App screenshot (mobile device)](https://via.placeholder.com/200x300)
+<img width="546" height="835" alt="image" src="https://github.com/user-attachments/assets/ee2bee93-8413-412c-bf7b-626cd1cad9f8" />
+
 
 📦 API Reference
 -----------------
