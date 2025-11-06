@@ -68,7 +68,7 @@ Not applicable, as the Calculator Web App is a static website and does not use a
 
 👤 Author
 ----------
-The Calculator Web App was created by **Sarfaraz**, a web development enthusiast and professional.
+The Calculator Web App was created by Md Sarfaraz Alam, a web development enthusiast and professional.
 
 📝 License
 ----------
